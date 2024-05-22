@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sabas
+ *
+ */
+module SampleProjectForGit {
+}
